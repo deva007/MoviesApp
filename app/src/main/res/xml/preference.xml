@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preference
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:title="preference_sort_order"
+        android:key="preference_order_key"
+        android:defaultValue="@string/popular_movies"
+        android:entries="@array/preference_order"
+        android:entryValues="@array/preference_order">
+
+    </ListPreference>
+
+
+
+</Preference>
