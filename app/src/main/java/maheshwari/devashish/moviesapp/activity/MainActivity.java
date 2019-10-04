@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     private GridLayoutManager gridLayoutManager;
     private boolean mTwoPane;
 
-    private final static String POPULAR_MOVIES = "Popular Movies";
+    private final static String POPULAR_MOVIES = "PopularMovies";
     private final static String TOP_RATED_MOVIES = "Top Rated Movies";
     private final static String FAVORITE_MOVIES = "Favorite Movies";
 
